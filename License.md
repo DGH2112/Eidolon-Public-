@@ -2,9 +2,9 @@
 
 Author:   David Hoyle
 
-Version:  1.7e
+Version:  1.7f
 
-Date:     22 Feb 2020
+Date:     08 Oct 2023
 
 Web Site: [Eidolon](https://github.com/DGH2112/Eidolon-Public-)
 

@@ -2,9 +2,9 @@
 
 Author:   David Hoyle
 
-Version:  1.7e
+Version:  1.7f
 
-Date:     22 Feb 2020
+Date:     08 Oct 2023
 
 Web Site: [Eidolon](https://github.com/DGH2112/Eidolon-Public-)
 
@@ -38,8 +38,8 @@ You can change to a parent directory by typing CD.. and pressing enter:
 
 Once you have successfully navigated to the **Eidolon** directory containing the files you can register the DLL with the system by typing the below command and pressing enter:
 
-    REGSVR32 EIDOLON.DLL
+    REGSVR32 EIDOLON32.DLL
 
 Conversely you can unregister the DLL with the system by typing the below command and pressing enter:
 
-    REGSVR32 /U EIDOLON.DLL
+    REGSVR32 /U EIDOLON32.DLL
